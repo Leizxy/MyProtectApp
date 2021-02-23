@@ -1,0 +1,5 @@
+include ':shelllib'
+//include ':sourceapp'
+include ':shell'
+include ':app'
+rootProject.name = "MyProtectApp"
